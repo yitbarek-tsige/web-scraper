@@ -9,7 +9,7 @@ url = 'http://mysgs.smuc.edu.et/distance'
 login_failed_string = 'Invalid Password'
 #input('[+] Enter String That Occurs When Login Fails: ')
 #button_name = input('[+] Enter Name of the Button to Click: ')
-credentials_file = 'D:/Documents/Google Drive/My Drive/St. mary university website scraper/ID number bunch.txt'
+credentials_file = 'D:/Documents/OneDrive/codes/web scraper/ID number bunch.txt'
 #input('[+] Enter File Containing Usernames and Passwords (line-by-line): ')
 
 driver = webdriver.Chrome()  # Replace with your preferred browser's WebDriver
